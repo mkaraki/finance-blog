@@ -1,0 +1,10 @@
+baseURL = 'https://finance-blog.mkarakiapps.com/'
+languageCode = 'ja-jp'
+defaultContentLanguage = 'ja'
+title = 'Finance Blog'
+theme = 'clarity'
+
+hasCJKLanguage = true
+
+timeZone = 'Asia/Tokyo'
+
