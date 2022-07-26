@@ -15,11 +15,11 @@ const goBackClass = 'button_back';
 const lineClass = '.line';
 
 // defined in i18n / translation files
-const quickLinks = '';
-const searchResultsLabel = '';
-const shortSearchQuery = ''
-const typeToSearch = '';
-const noMatchesFound = '';
+const quickLinks = '結果';
+const searchResultsLabel = '検索結果';
+const shortSearchQuery = '検索文字列が短すぎます'
+const typeToSearch = '入力して検索';
+const noMatchesFound = '結果が存在しません';
 
 ;
 // global variables
