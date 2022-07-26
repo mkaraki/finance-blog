@@ -11,3 +11,6 @@ timeZone = 'Asia/Tokyo'
 [params]
     DateFormat = "2006/01/02"
     customCSS = [ "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" ]
+
+    [assets]
+        disableFingerprinting = true
