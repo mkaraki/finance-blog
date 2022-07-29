@@ -19,8 +19,7 @@ toc: false
 
 ## 実際の表
 
-{{<mermaid align="center">}}
-
+```mermaid
 classDiagram
   class Coinプラス {
     決済サービス
@@ -65,9 +64,7 @@ classDiagram
 
   Jcoin Pay<..>みずほ銀行
   Jcoin Pay<..>Jcoin Pay対応銀行
-
-
-{{</mermaid >}}
+```
 
 - 描画ツールの都合で`Coin+`が`Coinプラス`と表記されている箇所があります。
 
