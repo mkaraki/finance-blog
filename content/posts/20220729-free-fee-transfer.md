@@ -39,7 +39,6 @@ classDiagram
   住信SBIネット銀行<-->三井住友信託銀行
 
   三菱UFJ銀行<..>Coinプラス
-  埼玉りそな銀行<..>Coinプラス
   三井住友銀行<..>Coinプラス
   Coinプラス<..>銀行CJ
   Coinプラス<..>Coinプラス対応銀行
